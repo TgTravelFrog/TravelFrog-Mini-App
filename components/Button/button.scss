@@ -1,0 +1,53 @@
+.btn {
+  position: relative;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(0.16rem);
+  padding: 0.1rem 0.3rem;
+  border-radius: 0.26rem;
+  display: inline-block;
+  color: #fff;
+  font-family: 'Gerbera';
+  font-size: 0.2rem;
+  line-height: 120%;
+  cursor: pointer;
+
+  &.disabled {
+    cursor: not-allowed;
+    background: #a4a2ab !important;
+  }
+  &.loading::before {
+    position: absolute;
+    top: -1px;
+    right: -1px;
+    bottom: -1px;
+    left: -1px;
+    z-index: 1;
+    border-radius: inherit;
+    opacity: 0.35;
+    transition: opacity 0.2s;
+    font-size: 30px;
+    content: '';
+    pointer-events: none;
+  }
+}
+
+.loadingIcon {
+  display: inline-block;
+  margin-right: 10px;
+  animation: rotate 1s infinite linear;
+}
+
+@media (max-width: 768px) {
+  .btn {
+    position: relative;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(0.16rem);
+    padding: 0.1rem 0.2rem;
+    border-radius: 0.16rem;
+    display: inline-block;
+    color: #fff;
+    font-family: 'Gerbera';
+    font-size: 0.16rem;
+    line-height: 100%;
+  }
+}

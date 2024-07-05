@@ -1,0 +1,61 @@
+// modal
+.ant-modal {
+    font-family: zixiaohunwennuantongzhiti_trial;
+    margin: 0 auto !important;
+    .ant-modal-close {
+        display: none;
+    }
+    .ant-modal-header {
+        display: none;
+    }
+    .ant-modal-content {
+        padding: 0;
+        box-shadow: none;
+    }
+}
+
+.ant-message {
+    .ant-message-notice-content {
+        border-radius: 0.12rem;
+        border: 2px solid #e7dec1;
+        background: #6f9244;
+        color: #fff;
+        font-family: zixiaohunwennuantongzhiti_trial;
+        font-size: 0.13rem;
+        min-width: 1.5rem;
+        .ant-message-custom-content {
+            .anticon {
+                display: none;
+            }
+        }
+    }
+    .ant-message-notice-success {
+        .ant-message-notice-content {
+            background: #6f9244;
+        }
+    }
+    .ant-message-notice-error {
+        .ant-message-notice-content {
+            background: #b98075;
+        }
+    }
+}
+
+.ant-btn {
+    line-height: normal;
+    font-family: zixiaohunwennuantongzhiti_trial !important;
+    padding: 0;
+    &.ant-btn-default {
+        background: none;
+        box-shadow: none;
+    }
+    &.ant-btn-default:not(:disabled):not(.ant-btn-disabled):hover {
+        color: #aa9767;
+        border-color: #aa9767;
+    }
+    &:hover,
+    &:disabled:hover {
+        color: none;
+        border-color: none;
+    }
+}
