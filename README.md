@@ -1,23 +1,22 @@
 **TravelFrog**
 
-![Travel](https://github.com/TgTravelFrog/TgTravelFrog/assets/174433390/a0f72336-8e78-4b58-b21e-fa4a7d08c735)
+![Travel](https://github.com/TgTravelFrog/TravelFrog-Mini-App/assets/174433390/02f511fb-53ac-4920-988d-da243b771711)
+
 Introduction:
 
 The first Ai Adventure Versus Game on TONCHAIN with the model of "Travel to Earn"
-
-![8](https://github.com/TgTravelFrog/TgTravelFrog/assets/174433390/804203be-a607-4a5f-b828-f247ba95104d)
-
+![8](https://github.com/TgTravelFrog/TravelFrog-Mini-App/assets/174433390/ce618882-0173-45b9-ae41-723517430b53)
 Vision:
 
 Travel target all web3 users and also web2 users to join game through Mini Apps on Telegram.Release stress by raising a frog and traveling with him, and earn some rewards along the way, and your frog will continue to grow and become your loyal companion.
 
-![14](https://github.com/TgTravelFrog/TgTravelFrog/assets/174433390/5e7fb3fd-4f5f-4978-8490-aec6ae14c291)
+![14](https://github.com/TgTravelFrog/TravelFrog-Mini-App/assets/174433390/cf5f06b2-8e27-4abc-8099-b1493a96f8a3)
 
 Description:
 
 Travel Frog is a virtual pet light upbringing adventure placement game based on Ton blockchain and Telegram, using AIGC, LLM and Telegram to create rich story-based gameplay, all data based on the chain, and organic interaction with pets. In the game, players need to prepare their frog's travel packages for lunch items, but also need to receive documents for it, and entertain its friends. It will send the player a postcard of the trip at any time, and when he returns, he will also bring back some treasure chests, which can be opened by the owner, and all its actions are not under your control.
 
-![3](https://github.com/TgTravelFrog/TgTravelFrog/assets/174433390/2559b06c-a671-479d-8410-c3174b644617)
+![3](https://github.com/TgTravelFrog/TravelFrog-Mini-App/assets/174433390/a001827a-6926-4755-a607-60300134fcc7)
 
 - LinkTree: https://linktr.ee/travelfrog
 - Website: https://frog.travel
